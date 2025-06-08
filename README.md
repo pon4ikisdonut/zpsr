@@ -1,4 +1,4 @@
-# ZPSR Programming Language 🇺🇦
+# ZPSR Programming Language 
 
 **ZPSR** is a simple, Python-like programming language with a twist: it uses the Russian keyboard layout.  
 This project was created by a developer from Ukraine as an experiment in alternative syntax and typing ergonomics.
